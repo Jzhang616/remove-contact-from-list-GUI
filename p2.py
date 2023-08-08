@@ -1,7 +1,3 @@
-#Jason Zhang
-#JASZHANG
-#ID: 112920652
-
 from tkinter import *
 from tkinter import messagebox
 
